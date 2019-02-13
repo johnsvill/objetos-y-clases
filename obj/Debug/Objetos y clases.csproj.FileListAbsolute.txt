@@ -1,0 +1,7 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Objetos y clases\Objetos y clases\bin\Debug\Objetos y clases.exe.config
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Objetos y clases\Objetos y clases\bin\Debug\Objetos y clases.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Objetos y clases\Objetos y clases\bin\Debug\Objetos y clases.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Objetos y clases\Objetos y clases\obj\Debug\Objetos y clases.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Objetos y clases\Objetos y clases\obj\Debug\Objetos y clases.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Objetos y clases\Objetos y clases\obj\Debug\Objetos y clases.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Objetos y clases\Objetos y clases\obj\Debug\Objetos y clases.pdb
