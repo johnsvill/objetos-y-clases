@@ -13,11 +13,12 @@ namespace Objetos_y_clases
             clsEmpleados empleado;
             empleado = new clsEmpleados();
             empleado.edad = 25;
-            empleado.nombre = "Jonathan Villeda";
+            empleado.Nombre = "Jonathan Villeda";
             empleado.sueldoDiario = 100.5m;
+            
             decimal total;
             total = empleado.calculaSalario(30);
-            Console.WriteLine("El salario mensual del empleado " + empleado.nombre);
+            Console.WriteLine("El salario mensual del empleado " + empleado.Nombre);
             Console.WriteLine("es: " + total.ToString("C"));
             Console.ReadKey();
         }
